@@ -1,6 +1,6 @@
 <h1>Exp No 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Kancharla Narmadha </h3>
-<h3>Register Number: 212222110016</h3>
+<h3>Name:Shabreena Vincent </h3>
+<h3>Register Number: 212222230141</h3>
 
 
 # AIM:
