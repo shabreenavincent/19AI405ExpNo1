@@ -1,6 +1,6 @@
 # ExpNo 1 :Developing AI Agent with PEAS Description
-### Name: Yogabharathi S
-### Register Number:212222230179
+### Name: SHABREENA VINCENT
+### Register Number:212222230141
 
 
 ## AIM:
